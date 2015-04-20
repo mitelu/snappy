@@ -1,0 +1,11 @@
+name: time.mitelu
+version: 1.0.0
+vendor: Alex Maties <alex@mitleu.com>
+architecture: [amd64, armhf]
+icon: meta/teapot.svg
+binaries:
+ - name: goodtimes
+   exec: bin/setTime
+   description: "set the proper system time"
+ 
+

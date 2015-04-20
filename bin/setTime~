@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "This will set the system time"
+echo "Your current Date is "
+date 
+echo "Setting system date to now"
+
+echo "Your new date is"
+date
